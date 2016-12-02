@@ -32,7 +32,7 @@
     "swagger-converter": "^0.2.0",
     "swagger-editor": "^2.9.2",
     "swagger-test-templates": "^1.2.0",
-    "swagger-tools": "^0.9.0"
+    "wb-swagger-tools": "^0.9.0"
   },
   "devDependencies": {
     "chai": "^3.0.0",
@@ -51,7 +51,7 @@
     "start": "node app.js"
   },
   "bin": {
-    "swagger": "bin/swagger.js",
-    "swagger-project": "bin/swagger-project.js"
+    "wb-swagger": "bin/wb-swagger.js",
+    "wb-swagger-project": "bin/wb-swagger-project.js"
   }
 }
