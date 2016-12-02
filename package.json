@@ -32,7 +32,7 @@
     "swagger-converter": "^0.2.0",
     "swagger-editor": "^2.9.2",
     "swagger-test-templates": "^1.2.0",
-    "https://github.com/WAvdBeek/wb-swagger-tools.git": "^0.9.0"
+    "https://github.com/WAvdBeek/wb-swagger-tools.git": ""
   },
   "devDependencies": {
     "chai": "^3.0.0",
