@@ -14,7 +14,7 @@ Remember, one great thing about this approach is that all of the Swagger validat
 Install using npm. For complete instructions, see the [install](./docs/install.md) page.
 
 ```bash
-npm i -g git+https://github.com/WAvdBeek/wb-swagger.git
+npm i -g git+https://github.com/WAvdBeek/wb-swagger-node.git
 ```
 
 ## 2. Create a new swagger project
