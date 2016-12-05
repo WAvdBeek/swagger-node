@@ -1,5 +1,5 @@
 {
-  "name": "swagger",
+  "name": "wb-swagger",
   "version": "0.7.5",
   "description": "The Swagger command-line. Provides Swagger utilities and project lifecycle support.",
   "keywords": [
