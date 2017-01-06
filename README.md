@@ -29,6 +29,8 @@ only difference is that the swagger command is now replaced by wb-swagger:
 $ wb-swagger validate <swagger file name>
 ```
 
+note that validation of projects with relative references is possible by running wb-swagger from the directory where the swagger file recides.
+
 
 # <a name="about"></a>About this project
 
