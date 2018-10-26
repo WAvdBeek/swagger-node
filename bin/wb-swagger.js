@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/env nodejs
 /****************************************************************************
  Copyright 2016 Apigee Corporation
 
